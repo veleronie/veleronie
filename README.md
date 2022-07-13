@@ -4,5 +4,6 @@
 `Programming Languages:` Python, C++, Java, JavaScript 
 `Tools:` TensorFlow 2.0, PyTorch, Django, Flask
 `Cloud:` AWS, Google Cloud <br />
-
-`Language:` Russian*, English*, German*, Polish*.
+<hr />
+`Language:` Russian (fluent), English (C1), German (B1), Polish (A2).
+<hr />
