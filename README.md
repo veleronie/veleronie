@@ -1,5 +1,5 @@
-### AI Security Engineer
-👋🏻 Hi I am Val and I am passionate about Vision, Learning and Robotics. I am a Machine Learning Software Engineer
+### Machine Learning Engineer
+👋🏻 Hi I am Val and I am passionate about Vision, Learning and Robotics. I am an AI Security Engineer
 
 `Programming Languages:` Python, C++, Java, JavaScript <br />
 `Tools:` TensorFlow 2.0, PyTorch, Django, Flask<br />
