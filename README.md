@@ -5,5 +5,6 @@
 `Tools:` TensorFlow 2.0, PyTorch, Django, Flask
 `Cloud:` AWS, Google Cloud <br />
 <hr />
-`Languages:` Russian (fluent), English (C1), German (B1), Polish (A2).
+
+`Language:` Russian (fluent), English (C1), German (B1), Polish (A2).
 <hr />
