@@ -6,5 +6,5 @@
 `Cloud:` AWS, Google Cloud <br />
 <hr />
 
-`Language:` Russian (fluent), English (C1), German (B1), Polish (A2).
+`Language:` Russian (fluent), English (C1), German (B1), Polish (B1).
 <hr />
