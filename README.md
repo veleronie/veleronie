@@ -8,3 +8,4 @@
 
 `Language:` Russian (fluent), English (C1), German (B1), Polish (B1).
 <hr />
+Interests: @[tmva](https://github.com/root-project/root/tree/master/tmva), @[faiss](https://github.com/facebookresearch/faiss), @[dm_control](https://github.com/deepmind/dm_control), @[tensorflow](https://github.com/tensorflow/tensorflow), @[cpython](https://github.com/python/cpython), @[pytorch](https://github.com/pytorch/pytorch), @[mujoco](https://github.com/openai/mujoco-py), @[navigation2](https://github.com/ros-planning/navigation2)
