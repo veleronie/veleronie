@@ -1,6 +1,6 @@
 
 
-`Programming Languages:` Python, C++, Java, JavaScript <br />
+`Programming Languages:` Python, Java, С++, JavaScript <br />
 `Tools:` TensorFlow 2.0, PyTorch, Django, Flask<br />
 `Cloud:` AWS, Google Cloud <br />
 <hr />
